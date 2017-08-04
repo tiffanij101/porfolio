@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster');
+
+body {
+  background-image:url(https://s-media-cache-ak0.pinimg.com/736x/36/09/ee/3609eeaea1e65cb286b30e30776757b5--iphone-backgrounds-wallpaper-backgrounds.jpg);
+  text-align: center;
+}
+h1 {color : black;
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster');
+font-family: 'Dancing Script', cursive;
+font-size: 60
+}
+h2 {color: black;
+  border-style:double;
+  border-color:black;
+  @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster');
+  font-family: 'Dancing Script', cursive;
+  font-size: 30
+}
+h4 {border-style:double;
+ border-color:black;
+ font-size: 20;
+ @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster');
+ font-family: 'Dancing Script', cursive;
+ font-size: 30
+}
+h5{border-style:double;
+ border-color:black
+ font-size: 18;
+ @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster');
+ font-family: 'Dancing Script', cursive;
+ font-size: 30
+ }
+h6
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  
