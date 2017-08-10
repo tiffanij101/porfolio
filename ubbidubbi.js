@@ -1,4 +1,10 @@
-var monkey= "hello";
-for (var h=0;h<5;h++){
-alert(monkey.charAt(h));
+function name1(){
+var bb= document.getElementById("name").value;
+var cc="";
+for(var h=0,h<bb.length;h++){
+  if(bb.charAt(h)=="a"||bb.charAt(h)=="e"||bb.charAt(h)=="i"||bb.charAt(h)=="o"||bb.charAt(h)=="u"
+}else{
+cc+bb.charAt(h);
+alert(cc);
+}
 }
